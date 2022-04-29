@@ -1,4 +1,4 @@
-# [Bronze IV] 오븐 시계 - 2525 
+# [Bronze IV] 오븐 시계 - 2525 주석에 달려있는 것은 다르게 해서 틀린 것이다.
 
 [문제 링크](https://www.acmicpc.net/problem/2525) 
 
