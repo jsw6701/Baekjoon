@@ -7,7 +7,7 @@ public class Main {
 
         String name = br.readLine();
 
-        if(name.equals("jsw6701")){
+        if("jsw6701".equals(name)){
             bw.write("1");
         }
         else{
